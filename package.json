@@ -1,0 +1,19 @@
+{
+  "name": "howmany",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trescube/HowMany_node.git"
+  },
+  "author": "trescube",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trescube/HowMany_node/issues"
+  },
+  "homepage": "https://github.com/trescube/HowMany_node#readme"
+}
