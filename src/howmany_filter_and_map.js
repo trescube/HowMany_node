@@ -1,8 +1,8 @@
 'use strict';
 
 function isSolved(histogram) {
-  return histogram.reduce((solved, value, index) => {
-    return solved && (countOccurences(index, histogram) === value);
+  return histogram.reduce((isSolved, value, index) => {
+    return isSolved && (countOccurences(index, histogram) === value);
   }, true);
 }
 
