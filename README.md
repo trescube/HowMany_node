@@ -10,6 +10,10 @@ I'm positive that the solution(s) implemented are not the most efficient and are
 
 The solution in [howmany_filter_and_reduce](src/howmany_filter_and_reduce) uses functional javascript with `filter` and `map`.  
 
+## Functional Node w/Generator
+
+The solution in [howmany_filter_and_reduce](src/howmany_filter_and_reduce) uses functional javascript with `filter` and `map` but using a generator instead of a for loop for iteration.  
+
 Travis status
 =============
 [![Build Status](https://travis-ci.org/trescube/HowMany_node.svg?branch=master)](https://travis-ci.org/trescube/HowMany_node)
