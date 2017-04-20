@@ -1,5 +1,7 @@
 # Description
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/trescube/HowMany_node.svg)](https://greenkeeper.io/)
+
 This is a programmatic solution to the problem:
 
 `This sentence contains _ 0's, _ 1's, _ 2's, _ 3's, _ 4's, _ 5's, _ 6's, _ 7's, _ 8's, and _ 9's.`
